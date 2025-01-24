@@ -1,6 +1,8 @@
 # Data Structures Assignments Collection
 
-A comprehensive implementation of fundamental data structure algorithms in C++.
+A comprehensive implementation of fundamental data structure algorithms in C++.<br>
+<br>
+（成大工資系｜資料結構｜作業）
 
 ## Assignment Details
 
